@@ -1,0 +1,452 @@
+﻿body{margin:0;}
+.header1{border:1px solid gray; width:1200px; height:35px; margin:auto; background-color:black;}
+.esas{border:1px solid gray; width:52px; height:34px; margin-left:19px; line-height:30px; background-color:#1a1919; float:left;}
+.haqqinda{border:1px solid gray; width:74px; height:34px; line-height:30px; position:relative; float:left;}
+.reklam{border:1px solid gray; width:70px; height:34px; line-height:30px; background-color:black; float:left;}
+.elaqe{border:1px solid gray; width:70px; height:34px; line-height:30px; background-color:black; float:left;}
+.search{border:1px solid gray; width:35px; height:34px; background-image:url(./search.jpg); float:right; margin-right:19px;}
+.youtube{border:1px solid gray; width:35px; height:34px; background-image:url(./youtube.jpg); float:right;}
+.youtube:hover{background-image:url(./youtubered.jpg);}
+.twitter{border:1px solid gray; width:35px; height:34px; background-image:url(./twitter.jpg); float:right;}
+.twitter:hover{background-image:url(./twitterblue.jpg);}
+.facebook{border:1px solid gray; width:35px; height:34px; background-image:url(./facebook.jpg); float:right;}
+.facebook:hover{background-image:url(./facebookblue.jpg);}
+header{border:1px solid black; width:1200px; height:122px; margin:auto; background-color:black;}
+.reklambanner{float:right; margin-right: 19px; margin-top:15px;}
+.header2{border:1px solid black; width:1200px; height:48px; margin:auto; background-color:#262626;}
+.home{border:1px solid black; width:53px; height:48px; background-image:url(./home.jpg); float:left; background-position:bottom; background-color:#1e1e1e; margin-left:19px; margin-top:-1px;}
+.futbol{border:1px solid black; width:91px; height:48px; background-image:url(./futbolcolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.baku-2015{border:1px solid black; width:114px; height:48px; background-image:url(./baku-2015color.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.analiz{border:1px solid black; width:88px; height:48px; background-image:url(./analizcolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.diger{border:1px solid black; width:79px; height:48px; background-image:url(./digercolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.foto{border:1px solid black; width:71px; height:48px; background-image:url(./fotocolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.video{border:1px solid black; width:77px; height:48px; background-image:url(./videocolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.koshe{border:1px solid black; width:73px; height:48px; background-image:url(./koshecolor.jpg); background-position:bottom; background-repeat:no-repeat; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.header3{border:1px solid black; width:1200px; height:40px; margin:auto; background-color:#262626;}
+.sonxeberler{border:1px solid black; width:162px; height:40px; line-height:45px; float:left; margin-top:-1px; margin-left:19px;}
+.hereketliyazilar{border:1px solid black; width:916px; height:40px; line-height:45px; float:left; margin-top:-1px; margin-left:-1px;}
+.iconbook{border:1px solid black; width:40px; height:40px; background-image:url(./iconbook.jpg); float:right; margin-top:-1px; margin-left:-2px;}
+.iconvideo{border:1px solid black; width:40px; height:40px; background-image:url(./iconvideo.jpg); float:right; margin-top:-1px; margin-left:-1px; margin-right:19px;}
+.container{border:1px solid #e1e1e1; width:1200px; height:3000px; position:relative; margin:auto; background-color:#f2f2f2;}
+.newsitem{border:1px solid #e1e1e1; width:578px; height:397px; margin-top:30px; margin-left:19px; float:left; position:relative; background-color:white;}
+.qarabagbir{border:1px solid black; width:546px; height:365px; margin: auto; margin-top:15px; background-image:url(./qarabag.jpg);}
+.cedveliki{border:1px solid #e1e1e1; width:200px; height:732px; margin-top:-399px; margin-left:610px; position:relative; float:left; background-color:white;}
+.cedvelikiin{border:1px solid #e1e1e1; width:200px; height:257px; margin-top:-1px; margin-left:-1px; float:top; }
+.cedvelikiin3{border:0px solid black; width:170px; height:113px; float:top; background-image:url(./baku-fk.jpg); background-repeat:no-repeat; margin-top:10px; margin-left:13px;}
+.cedvelikiinmetin{border:0px solid black; width:170px; height:100px; float:top; margin-left:13px; margin-top:-1px;}
+.cedvelikiin1{border:1px solid #e1e1e1; width:200px; height:238px; margin-top:-1px; margin-left:-1px; float:top;}
+.cedvelikiin2{border:1px solid #e1e1e1; width:200px; height:237px; margin-top:-1px; margin-left:-1px; float:top; border-bottom:none; border-right:none; border-left:none;}
+.cedveluch{border:1px solid #e1e1e1; width: 364px; height: 1051px; float:left; margin-top: -399px; margin-left: 10px; background-color:white;}
+.newsitem4{border:1px solid #e1e1e1; width:576px; height:40px; float:left; margin-left:19px; margin-top:-635px; background-color:#e9e9e9}
+.newsitem4in{
+	border:1px solid #e1e1e1;  
+	height:40px;
+	float:left;
+	margin-top:-1px;
+	margin-left:-1px;
+	line-height:40px;
+}
+#newsitem4in1{
+	width:77px;
+	background-color:white;
+}
+#newsitem4in2{
+	width:90px;
+}
+#newsitem4in3{
+	width:86px;
+}
+.newsitem4container{
+	border:1px solid #e1e1e1;
+	width:576px;
+	height:595px;
+	float:left;
+	margin-left:19px;
+	margin-top:-594px;
+	background-color:white;
+	position:relative;
+}
+#onemli{
+	border:1px solid #e1e1e1;
+	width:266px;
+	height:179px;
+	margin-top:12px;
+	margin-left:14px;
+	position:relative;
+	float:left;
+}
+.onemli1{
+	background-image:url(./onemli1.jpg);
+}
+.onemli2{
+	background-image:url(./onemli2.jpg);
+}
+.onemli3{
+	background-image:url(./onemli3.jpg);
+}
+.onemli4{
+	background-image:url(./onemli4.jpg);
+}
+.onemli5{
+	background-image:url(./onemli5.jpg);
+}
+.onemli6{
+	background-image:url(./onemli6.jpg);
+}
+.newsitem5header{
+	border:1px solid #e1e1e1;
+	width:1160px;
+	height:50px;
+	margin-left:19px;
+	float:left;
+	margin-top:20px;
+	background-color:#e9e9e9;
+	line-height:50px;
+}
+.newsitem5container{
+	border:1px solid #e1e1e1;
+	width:1160px;
+	height:223px;
+	margin-left:19px;
+	float:left;
+	margin-top:-1px;
+	background-color:white;
+	line-height:50px;
+}
+#fotonewsitem{
+	border:0px solid #e1e1e1;
+	width:274px;
+	height:183px;
+	margin-top:20px;
+	float:left;
+}
+.foto1{
+	background-image:url(./foto1.jpg);
+	margin-left:30px
+}
+.foto2{
+	background-image:url(./foto2.jpg);
+	margin-left:1px
+}
+.foto3{
+	background-image:url(./foto3.jpg);
+	margin-left:1px
+}
+.foto4{
+	background-image:url(./foto4.jpg);
+	margin-left:1px
+}
+.cedvel3-1{
+	border:1px solid #e1e1e1; 
+	width:331px; 
+	height:38px; 
+	float:left; 
+	margin-left:13px; 
+	margin-top:14px;
+}
+.cedvel3-1-1{
+	border:1px solid #e1e1e1;
+	width:122px;
+	height:38px;
+	float:left;
+	margin-top:-1px;
+	margin-left:-1px;
+	line-height:40px;
+}
+.cedvel3-1-2{
+	border:1px solid #e1e1e1;
+	width:124px;
+	height:38px;
+	float:left;
+	margin-top:-1px;
+	margin-left:-1px;
+	background-color:#e9e9e9;
+	line-height:40px;
+}
+.cedvel3-1-3{
+	border:1px solid #e1e1e1;
+	width:83px;
+	height:38px;
+	float:left;
+	margin-top:-1px;
+	margin-left:-1px;
+	margin-right:-1px;
+	background-color:#e9e9e9;
+	line-height:40px;
+}
+.cedvel3big{
+	border:1px solid #e1e1e1;
+	width:334px;
+	height:979px;
+	float:left;
+	margin-left:13px;
+	margin-top:-1px;
+	overflow:auto;
+}
+.cedvel3big1{
+	border:1px solid #e1e1e1;
+	width:289px;
+	height:103px;
+	float:left;
+	margin-left:14px;
+	margin-top:-1px;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+	background-image:url(./azerkesler.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+}
+.font1{
+	margin-left:90px;
+	margin-top:20px;
+	position:relative;
+}
+#kalendar{
+	border:0px solid #e1e1e1;
+	background-image:url(./kalendar.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	margin-left:90px;
+	margin-top:0px;
+	position:relative;
+	height:30px;
+}
+.font2{
+	margin-left:20px;
+	line-height:32px;
+}
+.secilmishler{
+	border:1px solid #e1e1e1;
+	height:38px;
+	width:576px;
+	margin-left:19px;
+	margin-top:20px;
+	float:left;
+	background-color:#e9e9e9;
+	line-height:40px;
+}
+.secilmishler-container{
+	border:1px solid #e1e1e1;
+	width:576px;
+	height:420px;
+	margin-left:-578px;
+	margin-top:59px;
+	float:left;
+	background-color:white;
+}
+.secilmishler1{
+	border:1px solid #e1e1e1;
+	width:288px;
+	height:420px;
+	margin-top:-1px;
+	margin-left:-1px;
+	float:left;
+}
+.secilmishler2{
+	border:1px solid #e1e1e1;
+	width:287px;
+	height:420px;
+	margin-top:-1px;
+	margin-left:288px;
+	float:left;
+	position:absolute;
+}
+.secilmishler-photo-text1{
+	border:1px solid #e1e1e1;
+	width:259px;
+	height:174px;
+	background-image:url(./secilmishler.jpg);
+	background-repeat:no-repeat;
+	margin-left:14px;
+	margin-top:14px;
+}
+.irlandiya{
+	margin-left:14px;
+	margin-right:14px;
+}
+.secilmishler3{
+	border:1px solid #e1e1e1;
+	width:576px;
+	height:38px;
+	float:left;
+	background-color:white;
+	margin-left:-578px;
+	margin-top:480px;
+	line-height:40px;
+}
+.axtaris{
+	border:1px solid #e1e1e1;
+	width:198px;
+	height:38px;
+	float:left;
+	background-color:#e9e9e9;
+	margin-top:20px;
+	margin-left:10px;
+	line-height:40px;
+}
+.axtaris1{
+	border:1px solid #e1e1e1;
+	width: 198px;
+	height: 69px;
+	float:left;
+	background-color:white;
+	margin-left:-200px;
+	margin-top:59px;
+}
+.axtar{
+	border:1px solid #e1e1e1;
+	width:119px;
+	height:37px;
+	float:left;
+	margin-top:15px;
+	margin-left:14px;
+	background-color:#fafafa;
+	line-height:35px;
+}
+.searchbutton{
+	border:1px solid #e1e1e1;
+	width:48px;
+	height:37px;
+	float:left;
+	margin-top:15px;
+	margin-left:-1px;
+	background-image:url(./searchbutton.jpg);
+}
+.reklam1{
+	border:1px solid #e1e1e1;
+	width:198px;
+	height:38px;
+	float:left;
+	background-color:#e9e9e9;
+	position: relative;
+	margin-left:-200px;
+	top:129px;
+	line-height:35px;
+}
+.reklam2{
+	border:1px solid #e1e1e1;
+	width:198px;
+	height:630px;
+	float:left;
+	margin-left:-200px;
+	margin-top:168px;
+	background-color:white;
+}
+.reklam3{
+	border:1px solid #e1e1e1;
+	width:198px;
+	height:38px;
+	float:left;
+	background-color:#e9e9e9;
+	position: relative;
+	margin-left:-200px;
+	top:150px;
+	line-height:35px;
+}
+.reklam4{
+	border:1px solid #e1e1e1;
+	width:198px;
+	height:630px;
+	float:left;
+	position: relative;
+	margin-left:-200px;
+	top:190px;
+	background-color:white;
+}
+.kose{
+	border:1px solid #e1e1e1;
+	width:362px;
+	height:38px;
+	float:left;
+	margin-left:10px;
+	margin-top:19px;
+	background-color:#e9e9e9;
+	line-height:40px;
+}
+.kose1{
+	border:1px solid #e1e1e1;
+	width:362px;
+	height:502px;
+	float:left;
+	margin-left:10px;
+	margin-top:-1px;
+	background-color:white;
+}
+.kosefoto{
+	border:0px solid #e1e1e1;
+	width:333px;
+	height:227px;
+	float:left;
+	margin-left:13px;
+	margin-top:13px;
+	background-image:url(./kosefoto.jpg); 
+}
+.karikatura{
+	border:1px solid #e1e1e1;
+	width:362px;
+	height:38px;
+	float:left;
+	margin-left:10px;
+	margin-top:-1px;
+	background-color:#e9e9e9;
+	line-height:40px;
+}
+.karikatura1{
+	border:1px solid #e1e1e1;
+	width:362px;
+	height:255px;
+	float:left;
+	position: absolute;
+	left:10px;
+	top:1983px;
+	background-color:white;
+}
+.karikatur2{
+	border:0px solid #e1e1e1;
+	width:333px;
+	height:227px;
+	float:left;
+	margin-left:13px;
+	margin-top:13px;
+	background-image:url(./karikatur.jpg);
+}
+.topup{border:1px solid black; border-radius:5px; width:25px; height:25px; position:fixed; float:right; right:20px; top:200px;z-index:5; }
+.footer{border:1px solid black; width:1200px; height:717px; margin:auto; background-color:#262626;}
+.bolme0{border:1px solid #1a1a1a; width:1200px; height:3px; margin-left:-1px; margin-top:-1px; float:left; background-color:#1a1a1a;}
+.bolme1{border:1px solid black; width:288px; height:366px; margin-left:19px; margin-top:-1px; float:left;}
+.haqqinda1{border:0px solid black; width:251px; height:27px; margin-left:17px; margin-top:30px; float:left;}
+.haqqinda2{border:0px solid black; width:251px; height:88px; margin-left:17px; margin-top:20px; float:left;}
+.bolme2{border:1px solid black; width:288px; height:366px; margin-left:-1px; margin-top:-1px; float:left;}
+.tesadufi1{border:0px solid black; width:160px; height:72px; background-image:url(./tesadufi1.jpg); background-position:left; background-repeat:no-repeat; padding-left:90px; margin-left:17px; margin-top:20px; float:left;}
+.tesadufi2{border:0px solid black; width:160px; height:53px; background-image:url(./tesadufi2.jpg); background-position:left; background-repeat:no-repeat; padding-left:90px; margin-left:17px; margin-top:5px; float:left;}
+.tesadufi3{border:0px solid black; width:160px; height:72px; background-image:url(./tesadufi3.jpg); background-position:left; background-repeat:no-repeat; padding-left:90px; margin-left:17px; margin-top:5px; float:left;}
+.tesadufi4{border:0px solid black; width:160px; height:53px; background-image:url(./tesadufi4.jpg); background-position:left; background-repeat:no-repeat; padding-left:90px; margin-left:17px; margin-top:5px; float:left;}
+.bolme3{border:1px solid black; width:288px; height:366px; margin-left:-1px; margin-top:-1px; float:left;}
+.facebooklike{border:1px solid black; width:251px; height:265px; background-image:url(./facebooklike.jpg); margin-left:17px; margin-top:20px; float:left;}
+.bolme4{border:1px solid black; width:288px; height:366px; margin-left:-1px; margin-top:-1px; float:left;}
+.bolmeler1{border:0px solid black; width:120px; height:6px; margin-left:17px; margin-top:20px; float:left;}
+.bolmeler2{border:0px solid black; width:80px; height:6px; margin-left:17px; margin-top:20px; float:left;}
+.bolmeler3{border:0px solid black; width:120px; height:6px; margin-left:17px; margin-top:30px; float:left;}
+.bolmeler4{border:0px solid black; width:60px; height:6px; margin-left:17px; margin-top:30px; float:left;}
+.ikincisetir{border:1px solid black; width:143px; height:233px; background-position:top; background-repeat:no-repeat; margin-top:-1px; float:left;}
+#ikincisetir1{margin-left:19px; background-image:url(./futbolcolor1.jpg);}
+.futbolmetin{border:0px solid black; width:105px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir2{margin-left:-1px; width:144px; background-image:url(./baku-2015color1.jpg);}
+.baku-2015metin{border:0px solid black; width:105px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir3{margin-left:-1px; background-image:url(./analizcolor1.jpg);}
+.analizmetin{border:0px solid black; width:105px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir4{margin-left:-1px; width:144px; background-image:url(./digercolor1.jpg);}
+.digermetin{border:0px solid black; width:120px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir5{margin-left:-1px; background-image:url(./fotocolor1.jpg);}
+.fotometin{border:0px solid black; width:105px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir6{margin-left:-1px; background-image:url(./videocolor1.jpg);}
+.videometin{border:0px solid black; width:105px; height:210px; margin-left:19px; float:left; margin-top:19px;}
+#ikincisetir7{margin-left:-1px; width:144px; background-image:url(./blankcolor1.jpg);}
+#ikincisetir8{margin-left:-1px; width:144px; background-image:url(./blankcolor2.jpg);}
+.uchuncusetir{border:1px solid black; width:1199px; height:111px; background-color:black; float:left; margin-top:-1px;}
+.qaynarinfologo{border:1px solid black; width:171px; height:110px; background-image:url(./qaynarinfologo.jpg); margin-top:-1px; margin-left:-1px;float:left;}
+.solashagipanel{border:1px solid #545454; border-left:none; border-top:none; border-right:none; line-height:75px; width:553px; height:52px; float:right; margin-top:-1px; margin-right:-1px;}
+.facebookbottom{border:1px solid black; width:19px; height:21px; float:right; background-image:url(./facebookbottom.jpg); background-repeat:no-repeat; margin-right:-400px; margin-top:70px;}
+.twitterbottom{border:1px solid black; width:19px; height:24px; float:right; background-image:url(./twitterbottom.jpg); background-repeat:no-repeat; margin-right:-430px; margin-top:70px;}
+.youtubebottom{border:1px solid black; width:19px; height:24px; float:right; background-image:url(./youtubebottom.jpg); background-repeat:no-repeat; margin-right:-460px; margin-top:70px;}
